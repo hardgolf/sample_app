@@ -10,6 +10,7 @@ gem 'pg', '0.14.1'
 
 group :development, :test do
   gem 'rspec-rails', '2.11.0'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 gem 'annotate', '2.5.0', group: :development
